@@ -18,12 +18,12 @@
     }, {
       "target": {
         "owner": "SgtSwagrid",
-        "name": "github-graph""
+        "name": "github-graph"
       }
     }, {
       "target": {
         "owner": "SgtSwagrid",
-        "name": "github-rules""
+        "name": "github-rules"
       }
     }
   ]
