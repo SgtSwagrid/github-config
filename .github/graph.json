@@ -1,0 +1,15 @@
+{
+  "ignore": [
+    "README.md",
+    ".github/graph.json",
+    ".github/workflows/sync.yml",
+  ],
+  "children": [
+    {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "scala-config"
+      }
+    }
+  ]
+}
