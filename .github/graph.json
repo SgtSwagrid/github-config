@@ -9,7 +9,12 @@
       "target": {
         "owner": "SgtSwagrid",
         "name": "scala-config"
-      }
+      },
+      "ignore": [
+        ".editorconfig",
+        ".gitattributes",
+        ".gitignore"
+      ]
     }
   ]
 }
