@@ -15,6 +15,16 @@
         ".gitattributes",
         ".gitignore"
       ]
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "github-graph""
+      }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "github-rules""
+      }
     }
   ]
 }
