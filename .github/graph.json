@@ -23,12 +23,12 @@
     }, {
       "target": {
         "owner": "SgtSwagrid",
-        "name": "github-rules",
-        "ignore": [
-          ".github/workflows/import-rulesets.yml",
-          ".github/workflows/export-rulesets.yml"
-        ]
-      }
+        "name": "github-rules"
+      },
+      "ignore": [
+        ".github/workflows/import-rulesets.yml",
+        ".github/workflows/export-rulesets.yml"
+      ]
     }
   ]
 }
