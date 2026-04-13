@@ -13,7 +13,8 @@
       "ignore": [
         ".editorconfig",
         ".gitattributes",
-        ".gitignore"
+        ".gitignore",
+        ".github/workflows/build-integrity.yml"
       ]
     }, {
       "target": {
