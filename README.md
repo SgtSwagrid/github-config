@@ -37,4 +37,4 @@ You have several options:
 
 ## 👁️ See also
 
-[Scala Config](https://github.com/SgtSwagrid/scala-config) is a downstream template for [Scala](https://www.scala-lang.org/) projects in particular.
+- [Scala Config](https://github.com/SgtSwagrid/scala-config) is a downstream template for [Scala](https://www.scala-lang.org/) projects in particular.
