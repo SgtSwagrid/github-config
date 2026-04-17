@@ -35,6 +35,12 @@ You have several options:
 2. If you want continuous updates, but want to deviate from my template according to your own needs, fork this repository and _then_ add your project(s) to [`graph.json`](.github/graph.json) (after removing the existing projects from the list). In this case, you can add the PAT yourself.
 3. If you just want the settings without the updates, click '**Use this template**' on GitHub (for a new project), or simply copy and paste the files (for an existing project).
 
+## 👮‍♂️ License
+
+The included MIT license should be considered only as part of the template, and is not binding.
+This repository is hereby released to the public domain, to be used freely.
+In particular, and contra [LICENSE.md](LICENSE.md), you may remove the license text from copies.
+
 ## 👁️ See also
 
 - [Scala Config](https://github.com/SgtSwagrid/scala-config) is a downstream template for [Scala](https://www.scala-lang.org/) projects in particular.
