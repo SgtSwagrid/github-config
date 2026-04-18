@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚙️ Git Config</h1>
+  <h1>⚙️ GitHub Config</h1>
   <p>The single source of truth for basic configuration across many of my projects on GitHub.</p>
 </div>
 
