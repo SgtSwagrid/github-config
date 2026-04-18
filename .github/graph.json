@@ -30,6 +30,11 @@
         ".github/workflows/import-rulesets.yml",
         ".github/workflows/export-rulesets.yml"
       ]
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "scalafmt-revolver"
+      }
     }
   ]
 }
