@@ -14,7 +14,7 @@ Updates to these files should be made _here_, not in any of the downstream repos
 - Basic IDE configuration in `.editorconfig`.
 - The [MIT](https://tlo.mit.edu/understand-ip/exploring-mit-open-source-license-comprehensive-guide) license,
   which I tend to use by default as it is fairly permissive.
-- Configuration for [github-rules](https://github.com/SgtSwagrid/github-rule) to define GitHub rulesets in-source.
+- Configuration for [GitHub Rules](https://github.com/SgtSwagrid/github-rule) to define GitHub rulesets in-source.
 - [Claude Code](https://claude.com/product/claude-code) integration with GitHub.
 
 ## 🏗️ Where is this used?
