@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚙️ GitHub Config</h1>
-  <p>The single source of truth for basic configuration across many of my projects on GitHub.</p>
+  <p>Common configuration for many of my projects on GitHub. </p>
 </div>
 
 ## 👷 What's the workflow?
