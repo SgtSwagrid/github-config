@@ -19,6 +19,17 @@
     }, {
       "target": {
         "owner": "SgtSwagrid",
+        "name": "cs-library-config"
+      },
+      "ignore": [
+        ".editorconfig",
+        ".gitattributes",
+        ".gitignore",
+        ".github/workflows/build-integrity.yml"
+      ]
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
         "name": "github-graph"
       }
     }, {
