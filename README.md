@@ -44,3 +44,4 @@ In particular, and contra [LICENSE.md](LICENSE.md), you may remove the license t
 ## 👁️ See also
 
 - [Scala Config](https://github.com/SgtSwagrid/scala-config) is a downstream template for [Scala](https://www.scala-lang.org/) projects in particular.
+- [C# Library Config](https://github.com/SgtSwagrid/cs-library-config) is a downstream template for [C#](https://learn.microsoft.com/dotnet/csharp/) libraries in particular.
